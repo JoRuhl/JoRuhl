@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JoRuhl
 - 👀 I’m interested in Bose-Einstein condensates, qudits, multi-body quantum problems, semi-classical approaches
 - 🌱 I’m currently learning whatever I can.
-- 💞️ I’m looking to collaborate on paid work.
-- 📫 How to reach me email
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have also worked as a certified pyrotechnician.
 
